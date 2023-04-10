@@ -3,7 +3,7 @@ import openai
 
 # https://github.com/openai/openai-python
 
-openai.api_key = os.getenv('OPENAI_API_KEY')  # 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
+openai.api_key = os.getenv('OPENAI_API_KEY')
 # print(openai.api_key)
 
 # list models
